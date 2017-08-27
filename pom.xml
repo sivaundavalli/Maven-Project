@@ -10,10 +10,7 @@
 	
 <packaging>jar</packaging>
 
-  
-	
-	
-	<name>JUnitProject</name>
+  <name>JUnitProject</name>
   <url>http://maven.apache.org</url>
 
   <properties>
