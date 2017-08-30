@@ -8,7 +8,11 @@
   
 	
 	
-<packaging>jar</packaging>
+
+	
+	
+	
+	<packaging>jar</packaging>
 
   <name>JUnitProject</name>
   <url>http://maven.apache.org</url>
@@ -20,7 +24,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <dependencies>
+  
+	
+	
+    <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
